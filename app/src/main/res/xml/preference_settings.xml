@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="@string/prefcat_general"
+        app:iconSpaceReserved="false">
+
+        <EditTextPreference
+            android:defaultValue="@string/edpref_default_status"
+            android:dialogTitle="@string/edpref_dialog_update_status"
+            android:key="key_status"
+            android:title="@string/edpref_status"
+            app:iconSpaceReserved="false"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="key_white_background"
+            android:summary="@string/swpref_summary"
+            android:title="@string/swpref_title"
+            app:iconSpaceReserved="false" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/prefcat_about"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="key_version"
+            android:summary="@string/pref_version_summary"
+            android:title="@string/pref_version"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="key_developer"
+            android:title="@string/pref_developer"
+            android:summary="Joseph Ajireloja"
+            app:iconSpaceReserved="false"/>
+
+        <Preference
+            android:key="key_storage"
+            android:title="@string/pref_storage_title"
+            android:summary="@string/pref_storage_summary"
+            app:iconSpaceReserved="false"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Farm Record Store</string>
+    <string name="label_search_screen">Rechercher des enregistrements</string>
+    <string name="label_settings_screen">Paramѐtres</string>
+    <string name="label_record_details">Détails de l\'enregistrement</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Paramѐtres</string>
+
+    <string name="navmenu_home">Accueil</string>
+    <string name="navmenu_settings">Paramѐtres</string>
+    <string name="navmenu_search">Rechercher des enregistrements</string>
+
+    <string name="navmenu_new_record">Nouvel enregistrement</string>
+
+    <string name="settings">Paramѐtres</string>
+
+    <string name="cancel">Annuler</string>
+    <string name="save">Enregistrer</string>
+    <string name="record_saved">Enregistrement enregistré.</string>
+    <string name="record_updated">Enregistrement revisé.</string>
+    <string name="record_deleted">Enregistrement supprimé.</string>
+    <string name="not_saved">Non enregistré.</string>
+    <string name="record_text_hint">Détails de l\'enregistrement</string>
+    <string name="record_title_hint">Titre de l\'enregistrement</string>
+    <string name="next">Suivant</string>
+
+    <string name="farm_record_store">Farm Record Store</string>
+    <string name="open_record">Ouvrir l\'enregistrement</string>
+
+    <string name="category_hint">Catégorie: Culture/Bétail/Autres</string>
+    <string name="last_updated">Derniѐre revisé:\u0020</string>
+    <string name="tv_record_category">Catégorie de l\'enregistrement.</string>
+    <string name="tv_record_title">Titre de l\'enregistrement.</string>
+    <string name="ivdescription_delete_record">Supprimer l\' enregistrement.</string>
+    <string name="tv_last_updated_date">Dernière date de révision.</string>
+    <string name="ivdescription_record_icon">Image de l\'enregistrement</string>
+    <string name="tv_welcome">Bienvenue!</string>
+    <string name="tv_thank_you_text">Merci d\'avoir choisi cette application mobile.</string>
+    <string name="action_new_record">Nouvel enregistrement</string>
+    <string name="action_search">Chercher</string>
+
+    <string name="edpref_default_status">C\'est mon statut.</string>
+    <string name="edpref_dialog_update_status">Réviser le statut</string>
+    <string name="edpref_status">Statut</string>
+    <string name="swpref_summary">Changer la couleur d\'arriere de la page d\'accueil en blanc</string>
+    <string name="swpref_title">Fond de page d\'accueil blanc</string>
+
+
+    <string name="prefcat_about">À propos d\'app</string>
+    <string name="pref_version">Version</string>
+    <string name="pref_developer">Développeur</string>
+    <string name="pref_released">Publié </string>
+
+    <string name="toast_you_are_here">Vous êtes ici.</string>
+    <string name="status_default">C\'est mon statut.</string>
+    <string name="confirm_record_delete">Supprimer cet enregistrement?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="time_last_updated">Derniѐre revisé:\u0020</string>
+    <string name="confirmation_delete">Supprimer cet enregistrement?</string>
+    <string name="prefcat_general">Général</string>
+    <string name="pref_version_summary">1.0 (Publié: 2021)</string>
+    <string name="pref_storage_title">Stockage</string>
+    <string name="pref_storage_summary">Les enregistrements de la ferme sont stockés localement sur la mémoire de l\'appareil. </string>
+
+</resources>

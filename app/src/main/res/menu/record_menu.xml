@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ajireapp.farmrecordstore.RecordActivity">
+    <item
+        android:id="@+id/actionNext"
+        android:icon="@drawable/ic_forward"
+        android:title="@string/next"
+        app:showAsAction="ifRoom|withText" />
+</menu>

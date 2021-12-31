@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/navHome"
+            android:icon="@drawable/ic_home"
+            android:title="@string/navmenu_home" />
+
+        <item
+            android:id="@+id/navNewRecord"
+            android:icon="@drawable/ic_library_new_record"
+            android:title="@string/navmenu_new_record" />
+    </group>
+
+    <group>
+
+        <item
+            android:id="@+id/navSearch"
+            android:icon="@drawable/ic_search_black"
+            android:title="@string/navmenu_search" />
+        <item
+            android:id="@+id/navSettings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/navmenu_settings"/>
+    </group>
+
+</menu>
